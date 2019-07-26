@@ -1,0 +1,30 @@
+{
+  "name": "cue",
+  "version": "0.1.0",
+  "description": "A basic quantum circuit inspector",
+  "main": "main.js",
+  "dependencies": {
+    "three": "^0.106.2",
+    "three-orbit-controls": "^82.1.0"
+  },
+  "devDependencies": {
+    "electron": "^5.0.8"
+  },
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christopherkang/cue.git"
+  },
+  "keywords": [
+    "quantum"
+  ],
+  "author": "Christopher Kang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christopherkang/cue/issues"
+  },
+  "homepage": "https://github.com/christopherkang/cue#readme"
+}
